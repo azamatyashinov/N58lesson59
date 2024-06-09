@@ -1,0 +1,28 @@
+.cards{
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 20px !important;
+}
+.card{
+    padding: 10px;
+    width: 300px;
+    background: #444 !important;
+    color: #ddd !important;
+}
+button{
+    margin-top: 200px !important;
+    margin-left: 32rem !important;
+    margin-top: 10px;
+    width: 200px !important;
+    height: 50px;
+    background: #6c0505 !important;
+    color: #ddd !important;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    border-radius: 10px !important;
+}
+
+.btn{
+    display: none;
+}
